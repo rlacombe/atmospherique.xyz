@@ -12,7 +12,6 @@ const Navigation = () => {
           
           <div className="hidden md:flex items-center space-x-8">
             <a href="#services" className="text-muted-foreground hover:text-primary transition-smooth">Services</a>
-            <a href="#about" className="text-muted-foreground hover:text-primary transition-smooth">About</a>
             <a href="#contact" className="text-muted-foreground hover:text-primary transition-smooth">Contact</a>
           </div>
           

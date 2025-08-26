@@ -25,7 +25,6 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Company</h3>
             <ul className="space-y-2 text-primary-foreground/70">
-              <li><a href="#about" className="hover:text-primary-foreground transition-smooth">About</a></li>
               <li><a href="#" className="hover:text-primary-foreground transition-smooth">Careers</a></li>
               <li><a href="#contact" className="hover:text-primary-foreground transition-smooth">Contact</a></li>
             </ul>
